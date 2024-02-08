@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=250&section=header&text=Hello!👋%20I',m%20SeungJu&animation=scaleIn&fontSize=70&fontAlignY=38&desc=Thank%20you%20for%20visiting%20my%20GitHub!😁&descAlignY=57&descAlign=62)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=220&section=header&text=Hello!👋%20I',m%20SeungJu&animation=scaleIn&fontSize=70&fontAlignY=38&desc=Thank%20you%20for%20visiting%20my%20GitHub!😁&descAlignY=57&descAlign=62)
 ### 안녕하세요, 도전하고 경험하는 것을 좋아하는 이승주입니다.🙂
 ## 💻 Portfolio 💻
 <div style="display:flex; flex-direction:row;">
